@@ -1,0 +1,192 @@
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+.fa-pinterest {
+    background: #cb2027;
+    color: white;
+}
+
+.fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+    background: #00aff0;
+    color: white;
+}
+
+.fa-android {
+    background: #a4c639;
+    color: white;
+}
+
+.fa-dribbble {
+    background: #ea4c89;
+    color: white;
+}
+
+.fa-vimeo {
+    background: #45bbff;
+    color: white;
+}
+
+.fa-tumblr {
+    background: #2c4762;
+    color: white;
+}
+
+.fa-vine {
+    background: #00b489;
+    color: white;
+}
+
+.fa-foursquare {
+    background: #45bbff;
+    color: white;
+}
+
+.fa-stumbleupon {
+    background: #eb4924;
+    color: white;
+}
+
+.fa-flickr {
+    background: #f40083;
+    color: white;
+}
+
+.fa-yahoo {
+    background: #430297;
+    color: white;
+}
+
+.fa-soundcloud {
+    background: #ff5500;
+    color: white;
+}
+
+.fa-reddit {
+    background: #ff5700;
+    color: white;
+}
+
+.fa-rss {
+    background: #ff6600;
+    color: white;
+}
+
+.navbar {
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 20px;
+    color:black;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color: white;
+    border-color: rgb(139, 216, 255 );
+    border-width: 3px;
+    border-style: solid;
+    border-radius:35px;
+  }
+  .f{
+      background-color: rgb(139, 216, 255 );
+  }
+
+  .rm{
+    float: right;
+    width: 400px;
+    height: 400px;
+}
+
+.t{
+    display: block;
+    margin:auto;
+}
+
+.p{
+    display: block;
+    margin: auto;
+}
+
+td{
+    Background-color: rgb(226, 245, 255, 0.76);
+}
+
+body{
+    padding: 22px;
+}
+
+section{
+    padding: 30px;
+    Background-color:  rgba(226, 245, 255, 0.76);
+}
+table{
+    padding: 20px;
+    margin: 0 auto;
+    text-align: left;
+}
+@font-face {
+    font-family: 'a';
+    src: url(/images/a.ttf)
+}
+h1{
+    text-align: center;
+    font-family: 'a';
+    font-size: 400%;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 150%;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+marquee{
+    background-color: rgb(169, 221, 255);
+    color: black;
+}
